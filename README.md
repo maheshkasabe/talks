@@ -1,3 +1,3 @@
 # Talks 
 
-The collection of Talks and slides given by Me 
+The Talks given by Mahesh 
